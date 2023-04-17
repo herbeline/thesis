@@ -7,7 +7,7 @@ Moisan, V. and Chauvel, A. (2021) Zelda, Le Jardin et le Monde. Façonnage Editi
 # Games
 
 - Survival Games (Walden)
-- Adventure Games with proeminent nature (The Legend of Zelda, Okami)
+- Adventure Games with proeminent nature/fictional scenarios of environmental doom (The Legend of Zelda, Okami, The Last of Us)
 - Engaged Games (Alba: a Wildlife Adventure, Phone Story)
 - Simulation Games about evolving in nature (Spore)
 
