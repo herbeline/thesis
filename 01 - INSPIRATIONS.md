@@ -6,13 +6,10 @@ Moisan, V. and Chauvel, A. (2021) Zelda, Le Jardin et le Monde. Façonnage Editi
 
 # Games
 
-The Legend of Zelda 
-
-Okami
-
-Alba: a Wildlife Adventure
-
-Spore
+- Survival Games (Walden)
+- Adventure Games with proeminent nature (The Legend of Zelda, Okami)
+- Engaged Games (Alba: a Wildlife Adventure)
+- Simulation Games about evolving in nature (Spore)
 
 
 # Filmography
