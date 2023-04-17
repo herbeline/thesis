@@ -17,4 +17,8 @@ Moisan, V. and Chauvel, A. (2021) Zelda, Le Jardin et le Monde. Façonnage Editi
 
 # Webography
 
+Exhibitions about Nature - Jakob Kudsk
 https://www.wallpaper.com/art/jakob-kudsk-steensen-berl-berl-vr-exhibition-halle-am-berghain-berlin
+
+What Zelda Breath of The Wild Is Like For Someone Who Doesn't Play Games
+https://youtu.be/5LdenlAKb2g
