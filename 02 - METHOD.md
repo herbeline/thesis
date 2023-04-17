@@ -1,11 +1,12 @@
 # My first ideas & process to start with my thesis 
 
-- Virtual Garden apps as a way to familiarize generations to flora and fauna
-- Climate Anxiety: the role of videogames to sensitize young generations and act towards concrete change
+- Virtual Garden apps as a way to familiarize generations to local and endangered flora and fauna
 - Nature in Videogames as a way to deal with global warming anxiety
-- Fictional scenarios in rpgs: a tool to imagine potential environmental crisis 
+- Games as an opportunity to examine and experience ecological outcomes through the imaginative spaces  
 - Picturing nature in videogames and its impact on generational sensitivity towards nature and global warming
 - Mobile Games as a tool to familiarize and educate the youngest about endangered species
+- Durability and exploitation of Nature in games and how to change our illusion of infinite resources
+- Using gaming as a concrete tool to save a species (??)
 
 
 ### Key words
