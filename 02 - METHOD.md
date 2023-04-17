@@ -7,7 +7,11 @@
 
 ### Key words
 
-Garden, Smartphone, Computer, VideoGames, Environmental Fames, Animal perspective, Ambient Gaming, 
+- 1
+Garden,
+
+- 2 
+Environmental Fames, Animal perspective, Ambient Gaming, Smartphone, Computer
 
 ## Interviews
 
