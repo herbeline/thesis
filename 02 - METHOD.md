@@ -1,5 +1,7 @@
 # My first ideas & process to start with my thesis 
 
+What role do players give to Nature in Videogames (and how do they perceive environmental degradation through them) ? 
+
 - Virtual Garden apps as a way to familiarize generations to local and endangered flora and fauna
 - Nature in Videogames as a way to deal with global warming anxiety
 - Games as an opportunity to examine and experience ecological outcomes through the imaginative spaces  
@@ -19,6 +21,10 @@ Garden, Mesocosm, Scale, Entropy, Collapse, Environmental Fames, Animal perspect
 ## Interviews
 
 - Naima Gradi, PhD student in Unige, Thesis topic : Investigate the effects of a gamified cognitive training on a population with high anxiety 
+- People who play games: 
+  - Gamers/Non Gamers
+  - Young/Old
+  - 
 
 ## Places to go
 
