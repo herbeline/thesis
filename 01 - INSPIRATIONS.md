@@ -7,8 +7,11 @@ Moisan, V. and Chauvel, A. (2021) Zelda, Le Jardin et le Monde. Façonnage Editi
 # Games
 
 The Legend of Zelda 
+
 Okami
+
 Alba: a Wildlife Adventure
+
 Spore
 
 
